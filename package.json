@@ -1,9 +1,10 @@
 {
     "name": "Add account",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Module to add account to selected account.",
     "main": "main.js",
     "author": "Quer",
-    "WillPlaygame": false
+    "WillPlaygame": false,
+    "repoId": 357999423
 }
   
